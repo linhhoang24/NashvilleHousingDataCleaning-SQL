@@ -1,7 +1,7 @@
 # NASHVILLE HOUSING DATASET CLEANING WITH SQL
 ## 1. Project Introduction
 In this project, I undertake the critical task of cleaning the Nashville housing dataset using **MS-SQL** to ensure the data's integrity and reliability.
-Specific cleaning tasks that were implemented are:
+Specific cleaning steps that were implemented are:
 - Standardizing formats (data type, value inification...)
 - Handling null values
 - Removing duplicate values and filtering out unused data
