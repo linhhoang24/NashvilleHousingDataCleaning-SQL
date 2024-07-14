@@ -2,7 +2,7 @@
 ## 1. Project Introduction
 In this project, I undertake the critical task of cleaning the Nashville housing dataset using **MS-SQL** to ensure the data's integrity and reliability.
 Specific cleaning steps that were implemented are:
-- Standardizing formats (data type, value inification...)
+- Standardizing formats (data type, value unification...)
 - Handling null values
 - Removing duplicate values and filtering out unused data
 - Enriching dataset by adding new columns derived from an existing column
